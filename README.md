@@ -10,7 +10,7 @@ Try it out here: http://shawntabrizi.com/ethbalance/
 
 Using Web3.js: https://github.com/ethereum/web3.js
 
-Using Infura.io: https://infura.io/
+Using ZMOK.io: https://zmok.io/
 
 ## How To Use
 
